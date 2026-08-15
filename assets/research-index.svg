@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+  <title id="title">Research index</title>
+  <desc id="desc">A visual index linking perception, geometry, and action.</desc>
+  <rect width="1200" height="250" rx="8" fill="#f3eddf"/>
+  <path d="M55 55H1145M55 202H1145" stroke="#26334a" stroke-opacity=".22"/>
+  <path d="M390 55V202M790 55V202" stroke="#26334a" stroke-opacity=".16"/>
+  <path d="M108 166C257 102 337 105 469 151S690 194 849 118 1049 92 1111 123" fill="none" stroke="#2e4f88" stroke-opacity=".2" stroke-width="2"/>
+  <g font-family="Avenir Next, Helvetica, sans-serif">
+    <g transform="translate(75 78)">
+      <text fill="#b86f50" font-size="12" font-weight="600" letter-spacing="3">01 / PERCEPTION</text>
+      <text y="48" fill="#222c3c" font-family="Baskerville, Times New Roman, serif" font-size="31">images as evidence</text>
+      <text y="79" fill="#6c6d6b" font-size="12" letter-spacing="1.5">SEE WHAT IS THERE</text>
+    </g>
+    <g transform="translate(425 78)">
+      <text fill="#2f538d" font-size="12" font-weight="600" letter-spacing="3">02 / GEOMETRY</text>
+      <text y="48" fill="#222c3c" font-family="Baskerville, Times New Roman, serif" font-size="31">worlds as structure</text>
+      <text y="79" fill="#6c6d6b" font-size="12" letter-spacing="1.5">RECONSTRUCT WHAT CONNECTS</text>
+    </g>
+    <g transform="translate(825 78)">
+      <text fill="#557d7a" font-size="12" font-weight="600" letter-spacing="3">03 / ACTION</text>
+      <text y="48" fill="#222c3c" font-family="Baskerville, Times New Roman, serif" font-size="31">space as possibility</text>
+      <text y="79" fill="#6c6d6b" font-size="12" letter-spacing="1.5">INHABIT WHAT WE BUILD</text>
+    </g>
+  </g>
+  <circle cx="107" cy="166" r="5" fill="#bd7658"/>
+  <ellipse cx="543" cy="167" rx="15" ry="6" transform="rotate(-25 543 167)" fill="#355b99" fill-opacity=".68"/>
+  <ellipse cx="562" cy="157" rx="7" ry="13" transform="rotate(22 562 157)" fill="#d49a80" fill-opacity=".7"/>
+  <circle cx="1109" cy="123" r="6" fill="#5e8e88"/>
+</svg>
