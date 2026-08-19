@@ -42,14 +42,14 @@
     </td>
     <td width="66%" valign="top">
       <sub>POSE-GUIDED GEOMETRY · FEED-FORWARD 3DGS</sub>
-      <h3>Pose-Guided Geometric Refinement for Feed-Forward 3D Gaussian Splatting</h3>
+      <h3><a href="https://doi.org/10.1007/978-3-032-31920-3_15">Pose-Guided Geometric Refinement for Feed-Forward 3D Gaussian Splatting</a></h3>
       <p>Geometry-aware refinement for more reliable feed-forward reconstruction.</p>
       <sub>Zihan Wang, <b>Xu Ji</b>, Yejun Zhang, Esa Rahtu, Juho Kannala</sub>
     </td>
     <td width="18%" align="center" valign="middle">
       <sub>ICPR<br />2026</sub>
       <br /><br />
-      <a href="https://doi.org/10.1007/978-3-032-31920-3_15"><b>READ ↗</b></a>
+      <a href="https://doi.org/10.1007/978-3-032-31920-3_15"><code>READ ↗</code></a>
     </td>
   </tr>
   <tr>
@@ -61,7 +61,7 @@
       <sub>POSE-FREE NVS · GAUSSIAN GEOMETRY</sub>
       <h3><a href="https://arxiv.org/abs/2608.16863">SplatGuide</a></h3>
       <p>Gaussian geometry × pose-free novel-view synthesis.</p>
-      <sub>Preprint available on arXiv.</sub>
+      <sub>Yejun Zhang, Zihan Wang, <b>Xu Ji</b>, et al.</sub>
     </td>
     <td width="18%" align="center" valign="middle">
       <sub>ECCV<br />2026<br />WORKSHOP</sub>
