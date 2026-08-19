@@ -59,14 +59,14 @@
     </td>
     <td width="66%" valign="top">
       <sub>POSE-FREE NVS · GAUSSIAN GEOMETRY</sub>
-      <h3>SplatGuide</h3>
+      <h3><a href="https://arxiv.org/abs/2608.16863">SplatGuide</a></h3>
       <p>Gaussian geometry × pose-free novel-view synthesis.</p>
-      <sub>Paper and project materials coming soon.</sub>
+      <sub>Preprint available on arXiv.</sub>
     </td>
     <td width="18%" align="center" valign="middle">
       <sub>ECCV<br />2026<br />WORKSHOP</sub>
       <br /><br />
-      <code>SOON</code>
+      <a href="https://arxiv.org/abs/2608.16863"><code>READ ↗</code></a>
     </td>
   </tr>
 </table>
